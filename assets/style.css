@@ -190,8 +190,8 @@ main {
   background-image: url("../assets/images/pexels-taryn-elliott-6405694.jpg");
 }
 
-.led-wall {
-  background-image: url("../assets/images/pexels-megan-forbes-963436.jpg");
+.grynd-app {
+  background-image: url("../assets/images/grynd-app.jpg");
 }
 
 .pastel-puzzles {
@@ -206,6 +206,9 @@ main {
   background-image: url("../assets/images/pexels-chiara-caldarola-1257245.jpg");
 }
 
+.flex-item:hover {
+  opacity: 0.3; 
+}
 @media screen and (max-width: 980px) {
   header {
     padding: 0 0 10px 0;
